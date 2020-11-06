@@ -12,4 +12,4 @@ urazy.csv -> work accidents data in Czechia by region (kraj)
 
 I collected JSON data for Czechia regions and plotted average work accidents in years 1995 - 2017 (excluding 2014 and 2015 due to missing data).
 
-![Plot of work accidents](https://github.com/jachymDvorak/Work_accidents_CZ/blob/main/Accidents_in_Czechia.jpg?raw=true)
+![Plot of work accidents](https://github.com/jachymDvorak/Work_accidents_CZ/blob/main/Accidents_in_Czechia.png?raw=true)
