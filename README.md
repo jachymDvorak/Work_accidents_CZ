@@ -1,4 +1,4 @@
-# Work accidents in Czechia - comparing Brno + Moravskoslezský region with Praha + Středočeský region).
+# Work accidents in Czechia - comparing Brno + Moravskoslezský region with Praha + Středočeský region.
 
 I compared the yearly amount of work accidents in these two regions. I excluded years that had missing data. Data was collected from the Ministry of Health of the Czech Republic [open data catalogue.](https://opendata.mzcr.cz/)
 
