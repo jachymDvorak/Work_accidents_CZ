@@ -1,5 +1,7 @@
 # Work accidents in Czechia - comparing Brno + Moravskoslezský region with Praha + Středočeský region.
 
+Data cleaning and EDA.
+
 I compared the yearly amount of work accidents in these two regions with the unemployment rates. I excluded years that had missing data. Data was collected from the Ministry of Health of the Czech Republic [open data catalogue.](https://opendata.mzcr.cz/)
 
 All files can be found in the datasets folder.
